@@ -1,7 +1,6 @@
 <html>
 <body>
-	HelloWorld!
-	${name}
+	Hello, ${name}!
 </body>
 
 </html>

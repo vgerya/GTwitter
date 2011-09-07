@@ -2,7 +2,7 @@ package gtwitter
 
 class HelloWorldController {
 
-	def index = {  [name: "Vitaliy"] }
+	def index = {  [name: params.name] }
 
 	def show = {  }
 }
